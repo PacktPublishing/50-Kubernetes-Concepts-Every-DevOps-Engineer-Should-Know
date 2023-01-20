@@ -57,3 +57,8 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 is a seasoned engineer and consultant in the Kubernetes space who spends his time working with startups and enterprises around the globe on Kubernetes and cloud-native projects. He also performs technical research, creates real-world, project-focused content, and coaches engineers on how to cognitively embark on their engineering journey. He is a DevOps pro, HashiCorp Ambassador, AWS Community Builder, and loves helping the tech community by public speaking internationally, blogging, and authoring technical books.
 
 
+
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781804611470">https://packt.link/free-ebook/9781804611470 </a> </p>
